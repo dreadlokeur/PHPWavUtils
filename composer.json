@@ -1,0 +1,10 @@
+{
+    "name": "dreadlokeur/php-wav-utils",
+    "authors": [
+        {
+            "name": "dreadlokeur",
+            "email": "dreadlokeur@gmail.com"
+        }
+    ],
+    "require": {}
+}
